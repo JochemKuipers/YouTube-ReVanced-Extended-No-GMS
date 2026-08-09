@@ -16,10 +16,10 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 # archive-dlurl = "https://archive.org/download/crimsonman/apk/com.google.android.youtube"
-excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom header for YouTube'"
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom header for YouTube' 'GmsCore support'"
 
 [YouTube-Music-Extended]
-enabled = true
+enabled = false
 app-name = "YouTube Music"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
@@ -35,7 +35,7 @@ excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding na
 included-patches = "'Disable music video in album'" 
 
 [YouTube-Morphe]
-enabled = true
+enabled = false
 app-name = "YouTube"
 rv-brand = "Morphe"
 build-mode = "both"
@@ -50,7 +50,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 patcher-args = "--patches './yavot.mpp'"
 
 [YouTube-Music-Morphe]
-enabled = true
+enabled = false
 app-name = "YouTube Music"
 rv-brand = "Morphe"
 build-mode = "both"
