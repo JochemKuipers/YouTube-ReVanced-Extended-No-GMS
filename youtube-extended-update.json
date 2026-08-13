@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches 4.2.0.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/JochemKuipers/YouTube-ReVanced-Extended-No-GMS/releases/download/1/youtube-revanced-extended-module-v20.51.39-all.zip",
+  "version": "v20.51.39 (patches dev.1.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/JochemKuipers/YouTube-ReVanced-Extended-No-GMS/releases/download/2/youtube-revanced-extended-module-v20.51.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/JochemKuipers/YouTube-ReVanced-Extended-No-GMS/update/build.md"
 }
